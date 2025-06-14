@@ -5,4 +5,4 @@ crash.log
 *.log
 *.tfvars
 .terraform.lock.hcl
-GCP/gcp-acccount.json
+*/gcp-acccount.json

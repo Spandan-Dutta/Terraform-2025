@@ -8,3 +8,4 @@ crash.log
 .terraform.lock.hcl
 *.tfplan
 gcp-account.json
+GCP/gcp-account.json

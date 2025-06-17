@@ -7,4 +7,4 @@ crash.log
 *.log
 .terraform.lock.hcl
 *.tfplan
-
+gcp-account.json
